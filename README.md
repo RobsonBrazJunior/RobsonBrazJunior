@@ -1,7 +1,5 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=RobsonBrazJunior&repo=RobsonBrazJunior&countColorcountColor)
 
-<img align="right" src="https://github.com/RobsonBrazJunior/RobsonBrazJunior/blob/master/img/programador.gif?raw=true" width="300"/>
-
 ## Hi, my name is Junior Braz :sunglasses:
 
 <div>
@@ -26,7 +24,9 @@
 </h4>
 <br>
 
-### :mortar_board: Formação acadêmica
+<img align="right" src="https://github.com/RobsonBrazJunior/RobsonBrazJunior/blob/master/img/programador.gif?raw=true" width="300"/>
+
+### :mortar_board: Academic education
   - Technologist in Analysis and Development of Web Systems - Federal Institute of Education, Science and Technology of Mato Grosso
 
 ### 🛠 Technologies
