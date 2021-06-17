@@ -35,7 +35,7 @@
 
 <p align="left">
   <!-- C# Icon -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg?raw=true">&nbsp;
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg?raw=true">&nbsp;
   <!-- HTML Icon -->
   <img src="https://github.com/RobsonBrazJunior/RobsonBrazJunior/blob/master/img/html.png?raw=true">&nbsp;
   <!-- CSS Icon -->
