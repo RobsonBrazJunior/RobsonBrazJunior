@@ -4,18 +4,15 @@
 
 <div>
   <a href="https://github.com/RobsonBrazJunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonBrazJunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonBrazJunior&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonBrazJunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonBrazJunior&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-<p align="center">  
-   <a href="https://www.instagram.com/_junior_braz.jr/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_junior_braz.jr/"/>   </a>
- 
- <a href="https://www.linkedin.com/in/robson-pereira-braz-junior-b9ba9570/">
-    <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-pereira-braz-junior-b9ba9570/">
-  </a>
-</p>
+<div>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:robsonbrazjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/robson-pereira-braz-junior-b9ba9570/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <br>
 
 <h4 align="center"> 
@@ -24,7 +21,7 @@
 </h4>
 <br>
 
-<img align="right" src="https://github.com/RobsonBrazJunior/RobsonBrazJunior/blob/master/img/programador.gif?raw=true" width="300"/>
+<img align="right" src="https://github.com/RobsonBrazJunior/RobsonBrazJunior/blob/master/img/programador.gif?raw=true" width="200"/>
 
 ### :mortar_board: Academic education
   - Technologist in Analysis and Development of Web Systems - Federal Institute of Education, Science and Technology of Mato Grosso
@@ -35,7 +32,7 @@
 
 <p align="left">
   <!-- C# Icon -->
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg?raw=true">&nbsp;
+  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg?raw=true">&nbsp;
   <!-- HTML Icon -->
   <img src="https://github.com/RobsonBrazJunior/RobsonBrazJunior/blob/master/img/html.png?raw=true">&nbsp;
   <!-- CSS Icon -->
