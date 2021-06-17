@@ -8,20 +8,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonBrazJunior&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
+<hr />
+<br />
+
 <div>
   <a href="https://www.instagram.com/_junior_braz.jr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:robsonbrazjunior@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/robson-pereira-braz-junior-b9ba9570/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br>
+<br />
 
-<h4 align="center"> 
-	🚧 I study programming since I was 14 years old,  🚀 In 2012 I started university, I stopped and went back a few times until I found that this was what I really wanted to do for the rest of my life.❤️ I started on the front-end, migrated to the back-end and today I am looking to have the necessary knowledge to be a fullstack developer. 😃
-	
+<h4> 
+	🚧 I study programming since I was 14 years old, 🚀 In 2012 I started university, I stopped and went back a few times until I found that this was what I really wanted to do for the rest of my life.❤️ I started on the front-end, migrated to the back-end and today I am looking to have the necessary knowledge to be a fullstack developer. 😃
 </h4>
-<br>
-
-<img align="right" src="https://github.com/RobsonBrazJunior/RobsonBrazJunior/blob/master/img/programador.gif?raw=true" width="200"/>
+<br />
 
 ### :mortar_board: Academic education
   - Technologist in Analysis and Development of Web Systems - Federal Institute of Education, Science and Technology of Mato Grosso
@@ -50,3 +50,5 @@
   <!-- React Icon -->
   <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/react.png?raw=true">&nbsp;
 </p>
+
+<img align="right" src="https://github.com/RobsonBrazJunior/RobsonBrazJunior/blob/master/img/programador.gif?raw=true" width="200"/>
