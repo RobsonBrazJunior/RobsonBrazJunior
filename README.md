@@ -1,5 +1,3 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=RobsonBrazJunior&repo=RobsonBrazJunior&countColorcountColor)
-
 ## Hi, my name is Junior Braz :sunglasses:
 
 <div>
