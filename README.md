@@ -46,6 +46,6 @@
 
 <p align="left">
   <!-- React Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/react.png?raw=true">&nbsp;
+  <img src="https://github.com/RobsonBrazJunior/RobsonBrazJunior/blob/master/img/react.png?raw=true">&nbsp;
 </p>
 
