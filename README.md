@@ -16,7 +16,7 @@
 </div>
 
 <h4> 
-	🚧 I study programming since I was 14 years old, 🚀 In 2012 I started university, I stopped and went back a few times until I found that this was what I really wanted to do for the rest of my life.❤️ I started on the front-end, migrated to the back-end and today I am looking to have the necessary knowledge to be a fullstack developer. 😃
+	🚧 I am a fullstack developer graduated in Internet Systems from the Federal Institute of Mato Grosso with just over 4 years of experience focusing on .NET 🚀 and C# language ❤️. I have been working with a greater focus on the back-end but I am also familiar with the front-end. 😃
 </h4>
 
 ### :mortar_board: Academic education
@@ -45,7 +45,5 @@
 **I'm studying :books:**
 
 <p align="left">
-  <!-- React Icon -->
-  <img src="https://github.com/RobsonBrazJunior/RobsonBrazJunior/blob/master/img/react.png?raw=true">&nbsp;
 </p>
 
