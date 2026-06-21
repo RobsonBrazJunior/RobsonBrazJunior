@@ -16,7 +16,7 @@
 </div>
 
 <h4> 
-	🚧 I am a fullstack developer graduated in Internet Systems from the Federal Institute of Mato Grosso with just over 4 years of experience focusing on .NET 🚀 and C# language ❤️. I have been working with a greater focus on the back-end but I am also familiar with the front-end. 😃
+	🚧 I am a fullstack developer graduated in Internet Systems from the Federal Institute of Mato Grosso with just over 7 years of experience focusing on .NET 🚀 and C# language ❤️. I have been working with a greater focus on the back-end but I am also familiar with the front-end. 😃
 </h4>
 
 ### :mortar_board: Academic education
