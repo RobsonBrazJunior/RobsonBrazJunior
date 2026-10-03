@@ -7,7 +7,7 @@
 </div>
 
 <h4> 
-	🚧 I am a fullstack developer graduated in Internet Systems from the Federal Institute of Mato Grosso with just over 7 years of experience focusing on .NET 🚀 and C# language ❤️. I have been working with a greater focus on the back-end but I am also familiar with the front-end. 😃
+Software Engineer with 7+ years building enterprise .NET/C# backend systems, specializing in legacy modernization and event-driven architecture across public-sector auditing, fleet logistics, and condominium management, including an international project in Belgium. Sets up CI/CD pipelines and develops cloud applications on Azure and AWS, ensuring quality and security through architectural standards, code review, and Dockerized E2E tests. Stack: .NET, DDD, Clean Architecture, CQRS, Kafka, Docker, Kubernetes, Azure.
 </h4>
 
 ### :mortar_board: Academic education
