@@ -12,18 +12,3 @@ Software Engineer with 7+ years building enterprise .NET/C# backend systems, spe
 
 ### :mortar_board: Academic education
   - Technologist in Analysis and Development of Web Systems - Federal Institute of Education, Science and Technology of Mato Grosso
-
-### 🛠 Technologies
-
-<img align="right" src="https://github.com/RobsonBrazJunior/RobsonBrazJunior/blob/master/img/programador.gif?raw=true" width="300"/>
-
-**Knowledge :computer:**
-
-<p align="left">
-</p>
-
-**I'm studying :books:**
-
-<p align="left">
-</p>
-
